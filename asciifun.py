@@ -1,0 +1,21 @@
+# ascii-art.py
+print("the fun playing with this ASCII")
+print("Star Pattern")
+print("    *")
+print("   ***")
+print("  *****")
+print(" *******")
+print("*********")
+
+print("\nNumber Pyramid")
+print("      1")
+print("     1 2 1")
+print("    1 2 3 2 1")
+print("   1 2 3 4 3 2 1")
+print(" 1 2 3 4 5 4 3 2 1")
+
+print("\nSimple Car")
+print("      ______")
+print(" ____/  |___\\_")
+print("|  _     _      `-.")
+print("'-(_)---(_)--(_)--(_)-'")
