@@ -1,4 +1,4 @@
-# life-decision.py
+
 
 decision = input("Should I text them? (yes/no): ")
 

@@ -1,4 +1,3 @@
-# mood-checker.py
 
 mood = input("How are you feeling today bestie? ")
 

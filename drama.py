@@ -1,4 +1,4 @@
-# drama-detector.py
+
 
 tea = input("Is there drama today? (yes/no): ")
 

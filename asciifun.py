@@ -1,4 +1,4 @@
-# ascii-art.py
+
 print("the fun playing with this ASCII")
 print("Star Pattern")
 print("    *")

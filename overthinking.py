@@ -1,4 +1,3 @@
-# overthinking-meter.py
 print("Welcome to my overthinking world hehe! Let's see how much you're overanalyzing that conversation. ")
 thoughts = int(input("How many times did you replay that conversation? "))
 
